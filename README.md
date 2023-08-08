@@ -35,11 +35,12 @@ Before we delve into the osTicket tutorial, it's essential to set up the foundat
 <h2>Part 1 (Create a Resource Group in Azure)</h2>
 
 <h2>Step 1:** Create a Resource Group to organize your virtual machine and its resources.</h2>
- ![image](https://github.com/Bybburnam/ostickets-prereqs/assets/102566114/693d54a2-01e7-4354-a447-e9b06e38092c) <br />
-<br />
-![image](https://github.com/Bybburnam/ostickets-prereqs/assets/102566114/e290ebd8-80be-423e-bd12-94d7c2c8fe27) <br />
-<br />
-![image](https://github.com/Bybburnam/ostickets-prereqs/assets/102566114/30150b47-027f-421c-b09a-a8bad532a8ca) <br />
+
+![image](https://github.com/Bybburnam/resource-groups-virtual-machines/assets/102566114/e592152b-96fb-407e-b387-2a89ec4bd9ff)
+
+![image](https://github.com/Bybburnam/ostickets-prereqs/assets/102566114/e290ebd8-80be-423e-bd12-94d7c2c8fe27)
+
+![image](https://github.com/Bybburnam/ostickets-prereqs/assets/102566114/30150b47-027f-421c-b09a-a8bad532a8ca) 
 
 <br />
 <br />
@@ -54,12 +55,11 @@ Note: This guide assists you through the lab, with no need for strict memorizati
 
 <h2>Step 1</h2>: Forge an Azure Virtual Machine, opting for Windows 10 and embracing 4 vCPUs for optimal performance.
 
-![image](https://github.com/Bybburnam/ostickets-prereqs/assets/102566114/8fb96362-cafe-441d-9519-07f650146c47)  <br />
+![image](https://github.com/Bybburnam/ostickets-prereqs/assets/102566114/8fb96362-cafe-441d-9519-07f650146c47) 
 
+![image](https://github.com/Bybburnam/ostickets-prereqs/assets/102566114/9160735d-37dd-4a79-a3ea-08af3ec00110) 
 
-![image](https://github.com/Bybburnam/ostickets-prereqs/assets/102566114/9160735d-37dd-4a79-a3ea-08af3ec00110) <br />
-
-![image](https://github.com/Bybburnam/ostickets-prereqs/assets/102566114/976f60b0-fa6a-40e0-9059-a3d77eec7b66) <br />
+![image](https://github.com/Bybburnam/ostickets-prereqs/assets/102566114/976f60b0-fa6a-40e0-9059-a3d77eec7b66) 
 
 <h2>Step 2</h2>: Designate a username (e.g., labuser) and establish a robust password (e.g., osTicketPassword1!) for your VM.
 
@@ -71,12 +71,16 @@ By favoring 4 vCPUs in Step 2, you strike a balance between performance and conn
 
 
 <h2>CLICK NEXT UNTIL NETWORKING, ALLOW IT TO AUTOMATICALLY CREATE A NETWORK FOR THE VIRTUAL MACHINE</h2>
+
 ![image](https://github.com/Bybburnam/ostickets-prereqs/assets/102566114/3bfd89d3-38ca-4404-aaa4-63d42c3f6658)
+
 <br />
 <br />
 
 <h2>CLICK REVIEW + CREATE, AND THEN CREATE</h2>
+
 ![image](https://github.com/Bybburnam/ostickets-prereqs/assets/102566114/4931b4ac-6244-4901-837b-765004d280b5)<br />
+
 <br />
 <br />
 
@@ -96,20 +100,26 @@ By favoring 4 vCPUs in Step 2, you strike a balance between performance and conn
 
 <br />
 <br />
+
 ![image](https://github.com/Bybburnam/resource-groups-virtual-machines/assets/102566114/8d4a59d2-60a6-4d0d-a587-21a5e1c57837)
 
 <h2>Click the start menu on your computer, type in Remote Desktop Computer and paste public IP addres, and then click connect</h2>
 
 ![image](https://github.com/Bybburnam/resource-groups-virtual-machines/assets/102566114/562477fb-a047-4e45-8b92-182476c8f1fa)
+
 <br />
 <br />
 <h2>This pop up box should come up, click more options if your name appears, input log-in details from above</h2>
+
 ![image](https://github.com/Bybburnam/resource-groups-virtual-machines/assets/102566114/ef82fbfe-8f02-4ed7-a22a-9278af1d7c56)
+
 <br />
 <br />
 
 <h2>Click yes to bypass prompt below</h2>
+
 ![image](https://github.com/Bybburnam/resource-groups-virtual-machines/assets/102566114/09b554e2-5d42-4870-aecd-d8205d68f24e)
+
 <br />
 <br />
 
