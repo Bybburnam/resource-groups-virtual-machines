@@ -1,3 +1,6 @@
+![image](https://github.com/Bybburnam/resource-groups-virtual-machines/assets/102566114/34356d73-925a-41a7-86ee-3da10a04aa39)
+
+
 <h1>Let's Create Resource Groups and Deploy a Virtual Machine</h1>
 
 - ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
